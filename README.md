@@ -18,7 +18,7 @@ This project was developed from the ground up utilizing a clean, layered archite
 
 * **Backend Framework:** Java 17 / Spring Boot 3.x
 * **Data Access Layer:** Spring Data JPA (Hibernate)
-* **Database Engine:** PostgreSQL / H2 (Local Development)
+* **Database Engine:** PostgreSQL
 * **Build Automation:** Maven
 
 ---
@@ -66,5 +66,5 @@ In a production deployment, all state-changing operations (`POST`, `PUT`, `DELET
 
 1. **Clone the Project:**
    ```bash
-   git clone <your-repository-url>
-   cd <project-directory-name>
+   git clone https://github.com/LuhMsibi/Java-Spring-Boot-Rest-API.git
+   cd practice
